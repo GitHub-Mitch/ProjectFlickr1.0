@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ProjectFlickr1.0</string>
+    <string name="date">Formation Android - Novembre 2016</string>
+    <string name="mitch_project">Mitch\n Project:</string>
 </resources>
